@@ -1,0 +1,2322 @@
+{
+    "lang": "zh-Hans",
+    "translated_segments": [
+        {
+            "id": 1,
+            "start": 0.08,
+            "end": 2.8799999,
+            "transcript": "对于那些不知道的人，我爸爸从来不吃快餐。",
+            "speaker": 0
+        },
+        {
+            "id": 2,
+            "start": 2.8799999,
+            "end": 4.56,
+            "transcript": "他几乎每顿饭都是自己做的。",
+            "speaker": 0
+        },
+        {
+            "id": 3,
+            "start": 4.56,
+            "end": 6.56,
+            "transcript": "实际上他几乎不去餐馆，这太疯狂了。",
+            "speaker": 0
+        },
+        {
+            "id": 4,
+            "start": 6.56,
+            "end": 10.174999,
+            "transcript": "不是说他不喜欢去餐馆，而是他喜欢为自己做饭。",
+            "speaker": 0
+        },
+        {
+            "id": 5,
+            "start": 10.174999,
+            "end": 13.295,
+            "transcript": "简单的食物，像煮蔬菜，蒸鸡肉，诸如此类的东西。",
+            "speaker": 0
+        },
+        {
+            "id": 6,
+            "start": 13.295,
+            "end": 16.64,
+            "transcript": "我觉得让你们了解他对快餐的看法会很酷。",
+            "speaker": 0
+        },
+        {
+            "id": 7,
+            "start": 16.64,
+            "end": 19.939999,
+            "transcript": "今天我们要去很多地方，让他看到一个新世界。",
+            "speaker": 0
+        },
+        {
+            "id": 8,
+            "start": 24.24,
+            "end": 25.824999,
+            "transcript": "第一站是塔可钟。",
+            "speaker": 0
+        },
+        {
+            "id": 9,
+            "start": 25.824999,
+            "end": 28.145,
+            "transcript": "我们曾经做过一集关于把塔可钟变成美食的节目。",
+            "speaker": 0
+        },
+        {
+            "id": 10,
+            "start": 28.145,
+            "end": 31.185,
+            "transcript": "那是一段时间前，也是比较受欢迎的之一。",
+            "speaker": 0
+        },
+        {
+            "id": 11,
+            "start": 31.185,
+            "end": 32.465,
+            "transcript": "所以这是我们的第一站。",
+            "speaker": 0
+        },
+        {
+            "id": 12,
+            "start": 32.465,
+            "end": 33.43,
+            "transcript": "你知道我们在做什么吗？",
+            "speaker": 0
+        },
+        {
+            "id": 13,
+            "start": 33.510002,
+            "end": 34.07,
+            "transcript": "吃垃圾食品。",
+            "speaker": 0
+        },
+        {
+            "id": 14,
+            "start": 34.07,
+            "end": 35.69,
+            "transcript": "你知道我们的第一站是什么吗？",
+            "speaker": 0
+        },
+        {
+            "id": 15,
+            "start": 37.19,
+            "end": 38.15,
+            "transcript": "我不知道。",
+            "speaker": 1
+        },
+        {
+            "id": 16,
+            "start": 38.15,
+            "end": 38.39,
+            "transcript": "不。",
+            "speaker": 1
+        },
+        {
+            "id": 17,
+            "start": 38.39,
+            "end": 38.89,
+            "transcript": "在哪里？",
+            "speaker": 1
+        },
+        {
+            "id": 18,
+            "start": 38.95,
+            "end": 39.510002,
+            "transcript": "塔可钟？",
+            "speaker": 1
+        },
+        {
+            "id": 19,
+            "start": 39.510002,
+            "end": 40.23,
+            "transcript": "好的，我们走吧。",
+            "speaker": 1
+        },
+        {
+            "id": 20,
+            "start": 40.23,
+            "end": 41.945,
+            "transcript": "你最喜欢的墨西哥菜是什么？",
+            "speaker": 1
+        },
+        {
+            "id": 21,
+            "start": 41.965,
+            "end": 47.585,
+            "transcript": "我最接近的上次经历是在墨西哥城，我吃了酸橘汁腌鱼，",
+            "speaker": 1
+        },
+        {
+            "id": 22,
+            "start": 48.045,
+            "end": 48.945,
+            "transcript": "真的很好。",
+            "speaker": 1
+        },
+        {
+            "id": 23,
+            "start": 49.940002,
+            "end": 55.38,
+            "transcript": "果汁，你知道，腌料，盐分，腌制和新鲜的食材。",
+            "speaker": 0
+        },
+        {
+            "id": 24,
+            "start": 55.38,
+            "end": 56.440002,
+            "transcript": "天啊，太棒了。",
+            "speaker": 0
+        },
+        {
+            "id": 25,
+            "start": 56.58,
+            "end": 57.56,
+            "transcript": "真的很好吃。",
+            "speaker": 0
+        },
+        {
+            "id": 26,
+            "start": 57.620003,
+            "end": 59.024998,
+            "transcript": "你知道他们什么时候喝水吗？",
+            "speaker": 0
+        },
+        {
+            "id": 27,
+            "start": 59.024998,
+            "end": 62.305,
+            "transcript": "他们的水甚至有味道，对于他们的文化来说味道很重要。",
+            "speaker": 0
+        },
+        {
+            "id": 28,
+            "start": 62.305,
+            "end": 65.345,
+            "transcript": "你知道，他们有tasbiscus，他们有仙人掌果实。",
+            "speaker": 0
+        },
+        {
+            "id": 29,
+            "start": 65.345,
+            "end": 67.149994,
+            "transcript": "哦，你现在要吃Crunchwrap Supreme了。",
+            "speaker": 0
+        },
+        {
+            "id": 30,
+            "start": 67.149994,
+            "end": 67.229996,
+            "transcript": "是的。",
+            "speaker": 0
+        },
+        {
+            "id": 31,
+            "start": 67.229996,
+            "end": 67.63,
+            "transcript": "我知道。",
+            "speaker": 0
+        },
+        {
+            "id": 32,
+            "start": 67.63,
+            "end": 68.509995,
+            "transcript": "这是一个很大的区别。",
+            "speaker": 0
+        },
+        {
+            "id": 33,
+            "start": 68.509995,
+            "end": 70.42999,
+            "transcript": "我不认为我会考虑那些墨西哥食物。",
+            "speaker": 0
+        },
+        {
+            "id": 34,
+            "start": 70.42999,
+            "end": 72.10999,
+            "transcript": "每个人在Taco Bell最喜欢的菜。",
+            "speaker": 0
+        },
+        {
+            "id": 35,
+            "start": 72.10999,
+            "end": 78.205,
+            "transcript": "所以这个视频的目标是我们将它们一起做，这样你可以相互比较，记住它们。",
+            "speaker": 0
+        },
+        {
+            "id": 36,
+            "start": 78.205,
+            "end": 79.565,
+            "transcript": "你知道什么是排行榜吗？",
+            "speaker": 0
+        },
+        {
+            "id": 37,
+            "start": 79.565,
+            "end": 79.885,
+            "transcript": "不。",
+            "speaker": 0
+        },
+        {
+            "id": 38,
+            "start": 79.885,
+            "end": 81.005,
+            "transcript": "排行榜是什么？",
+            "speaker": 0
+        },
+        {
+            "id": 39,
+            "start": 81.005,
+            "end": 82.78001,
+            "transcript": "这是你如何在线排名的。",
+            "speaker": 0
+        },
+        {
+            "id": 40,
+            "start": 82.78001,
+            "end": 86.96001,
+            "transcript": "这就像互联网上的一个趋势，但顶级不是加号，而是s。",
+            "speaker": 0
+        },
+        {
+            "id": 41,
+            "start": 88.62,
+            "end": 89.28001,
+            "transcript": "然后",
+            "speaker": 0
+        },
+        {
+            "id": 42,
+            "start": 89.605,
+            "end": 90.585,
+            "transcript": "SAS",
+            "speaker": 0
+        },
+        {
+            "id": 43,
+            "start": 91.205,
+            "end": 96.245,
+            "transcript": "是垃圾。不是。那是最好的1。是吗？是的。所以最好的是s，然后是ABC。",
+            "speaker": 0
+        },
+        {
+            "id": 44,
+            "start": 96.245,
+            "end": 97.68001,
+            "transcript": "你以前吃过塔可钟吗？",
+            "speaker": 1
+        },
+        {
+            "id": 45,
+            "start": 97.68001,
+            "end": 102.72,
+            "transcript": "嗯，你知道我们曾经和塔可钟一起做过一些事情，实际上去塔可钟那里点餐。",
+            "speaker": 1
+        },
+        {
+            "id": 46,
+            "start": 102.72,
+            "end": 103.22,
+            "transcript": "从来没有。",
+            "speaker": 1
+        },
+        {
+            "id": 47,
+            "start": 103.28,
+            "end": 104.4,
+            "transcript": "你走错路了。",
+            "speaker": 1
+        },
+        {
+            "id": 48,
+            "start": 104.4,
+            "end": 105.3,
+            "transcript": "哦，我走错了。",
+            "speaker": 1
+        },
+        {
+            "id": 49,
+            "start": 105.945,
+            "end": 106.604996,
+            "transcript": "让我们看看。",
+            "speaker": 1
+        },
+        {
+            "id": 50,
+            "start": 106.905,
+            "end": 107.30499,
+            "transcript": "真的吗？",
+            "speaker": 1
+        },
+        {
+            "id": 51,
+            "start": 107.30499,
+            "end": 107.704994,
+            "transcript": "是的。",
+            "speaker": 1
+        },
+        {
+            "id": 52,
+            "start": 107.704994,
+            "end": 108.905,
+            "transcript": "哦，他们也有肯德基。",
+            "speaker": 1
+        },
+        {
+            "id": 53,
+            "start": 108.905,
+            "end": 110.604996,
+            "transcript": "他们一箭双雕。",
+            "speaker": 1
+        },
+        {
+            "id": 54,
+            "start": 110.665,
+            "end": 112.845,
+            "transcript": "1份牛肉脆皮卷至尊。",
+            "speaker": 1
+        },
+        {
+            "id": 55,
+            "start": 113.119995,
+            "end": 116.659996,
+            "transcript": "我们可以为鸡的大小买到最小的一桶鸡。",
+            "speaker": 1
+        },
+        {
+            "id": 56,
+            "start": 116.96,
+            "end": 117.46,
+            "transcript": "奶酪。",
+            "speaker": 0
+        },
+        {
+            "id": 57,
+            "start": 117.6,
+            "end": 117.759995,
+            "transcript": "哇。",
+            "speaker": 0
+        },
+        {
+            "id": 58,
+            "start": 117.759995,
+            "end": 118.5,
+            "transcript": "难怪。",
+            "speaker": 0
+        },
+        {
+            "id": 59,
+            "start": 118.56,
+            "end": 119.439995,
+            "transcript": "他们称之为时尚。",
+            "speaker": 0
+        },
+        {
+            "id": 60,
+            "start": 119.439995,
+            "end": 120.079994,
+            "transcript": "谢谢。",
+            "speaker": 0
+        },
+        {
+            "id": 61,
+            "start": 120.079994,
+            "end": 120.24,
+            "transcript": "好的。",
+            "speaker": 0
+        },
+        {
+            "id": 62,
+            "start": 120.24,
+            "end": 121.6,
+            "transcript": "所以我们实际上是在2和1之间。",
+            "speaker": 0
+        },
+        {
+            "id": 63,
+            "start": 121.6,
+            "end": 124.275,
+            "transcript": "我甚至不知道肯德基和Taco Bell的驾驶通道是一起的。",
+            "speaker": 0
+        },
+        {
+            "id": 64,
+            "start": 124.275,
+            "end": 126.035,
+            "transcript": "哦，你们在那里做了这两件事吗？",
+            "speaker": 0
+        },
+        {
+            "id": 65,
+            "start": 126.035,
+            "end": 126.195,
+            "transcript": "是的。",
+            "speaker": 0
+        },
+        {
+            "id": 66,
+            "start": 126.195,
+            "end": 127.475,
+            "transcript": "肯德基和Taco Bell。",
+            "speaker": 0
+        },
+        {
+            "id": 67,
+            "start": 127.475,
+            "end": 127.955,
+            "transcript": "哇。",
+            "speaker": 0
+        },
+        {
+            "id": 68,
+            "start": 127.955,
+            "end": 128.455,
+            "transcript": "太棒了。",
+            "speaker": 0
+        },
+        {
+            "id": 69,
+            "start": 128.515,
+            "end": 129.795,
+            "transcript": "哦，这个。",
+            "speaker": 0
+        },
+        {
+            "id": 70,
+            "start": 129.795,
+            "end": 130.115,
+            "transcript": "是的。",
+            "speaker": 0
+        },
+        {
+            "id": 71,
+            "start": 130.115,
+            "end": 130.9,
+            "transcript": "Sid做的。",
+            "speaker": 0
+        },
+        {
+            "id": 72,
+            "start": 131.22,
+            "end": 131.54,
+            "transcript": "是的。",
+            "speaker": 0
+        },
+        {
+            "id": 73,
+            "start": 131.54,
+            "end": 131.93999,
+            "transcript": "是的。",
+            "speaker": 0
+        },
+        {
+            "id": 74,
+            "start": 131.93999,
+            "end": 132.18,
+            "transcript": "好的。",
+            "speaker": 0
+        },
+        {
+            "id": 75,
+            "start": 132.18,
+            "end": 133.54,
+            "transcript": "我以为那是一个脆皮的。",
+            "speaker": 0
+        },
+        {
+            "id": 76,
+            "start": 133.54,
+            "end": 134.92,
+            "transcript": "那么你的第一印象是什么？",
+            "speaker": 0
+        },
+        {
+            "id": 77,
+            "start": 135.22,
+            "end": 136.98,
+            "transcript": "你知道，我总是闻到那种酸味。",
+            "speaker": 1
+        },
+        {
+            "id": 78,
+            "start": 136.98,
+            "end": 138.26,
+            "transcript": "我不知道它是从哪里来的。",
+            "speaker": 1
+        },
+        {
+            "id": 79,
+            "start": 138.26,
+            "end": 141.125,
+            "transcript": "这是一些来自新鲜柠檬的。",
+            "speaker": 1
+        },
+        {
+            "id": 80,
+            "start": 141.745,
+            "end": 145.605,
+            "transcript": "所以，等等。里面有新鲜柠檬，儿子。我觉得是非常死的柠檬。",
+            "speaker": 1
+        },
+        {
+            "id": 81,
+            "start": 146.945,
+            "end": 147.445,
+            "transcript": "嗯。",
+            "speaker": 1
+        },
+        {
+            "id": 82,
+            "start": 148.785,
+            "end": 149.265,
+            "transcript": "咸的。",
+            "speaker": 1
+        },
+        {
+            "id": 83,
+            "start": 149.265,
+            "end": 149.82,
+            "transcript": "哦，哇。",
+            "speaker": 1
+        },
+        {
+            "id": 84,
+            "start": 150.06001,
+            "end": 151.52,
+            "transcript": "这就是你想要的，对吧？",
+            "speaker": 1
+        },
+        {
+            "id": 85,
+            "start": 151.58,
+            "end": 153.90001,
+            "transcript": "这个东西，真的是非常碳水化合物驱动的。",
+            "speaker": 1
+        },
+        {
+            "id": 86,
+            "start": 153.90001,
+            "end": 154.62001,
+            "transcript": "我可以打开它吗？",
+            "speaker": 1
+        },
+        {
+            "id": 87,
+            "start": 154.62001,
+            "end": 155.66,
+            "transcript": "让我们打开这个。",
+            "speaker": 1
+        },
+        {
+            "id": 88,
+            "start": 155.66,
+            "end": 157.5,
+            "transcript": "让我们真正审查里面的东西。",
+            "speaker": 1
+        },
+        {
+            "id": 89,
+            "start": 157.5,
+            "end": 157.74,
+            "transcript": "好的。",
+            "speaker": 1
+        },
+        {
+            "id": 90,
+            "start": 157.74,
+            "end": 158.96,
+            "transcript": "你知道哦，我的天啊。",
+            "speaker": 1
+        },
+        {
+            "id": 91,
+            "start": 159.365,
+            "end": 161.625,
+            "transcript": "他们放了多少肉？几乎没有。",
+            "speaker": 1
+        },
+        {
+            "id": 92,
+            "start": 162.645,
+            "end": 163.545,
+            "transcript": "就是这样。",
+            "speaker": 1
+        },
+        {
+            "id": 93,
+            "start": 164.005,
+            "end": 165.605,
+            "transcript": "你把一切都当作碳水化合物吃。",
+            "speaker": 1
+        },
+        {
+            "id": 94,
+            "start": 165.605,
+            "end": 166.4,
+            "transcript": "嗯，你知道吗？",
+            "speaker": 1
+        },
+        {
+            "id": 95,
+            "start": 166.48,
+            "end": 170.79999,
+            "transcript": "有些人喜欢食物，有些人只是想吃饱肚子。",
+            "speaker": 1
+        },
+        {
+            "id": 96,
+            "start": 170.79999,
+            "end": 172.42,
+            "transcript": "这真的绝对",
+            "speaker": 1
+        },
+        {
+            "id": 97,
+            "start": 173.04,
+            "end": 173.745,
+            "transcript": "是一个包裹。",
+            "speaker": 1
+        },
+        {
+            "id": 98,
+            "start": 173.745,
+            "end": 174.86499,
+            "transcript": "你知道那意味着什么，对吧？",
+            "speaker": 1
+        },
+        {
+            "id": 99,
+            "start": 174.86499,
+            "end": 175.905,
+            "transcript": "包裹意味着完成。",
+            "speaker": 1
+        },
+        {
+            "id": 100,
+            "start": 175.905,
+            "end": 178.545,
+            "transcript": "到目前为止，你把什么放在哪一层？",
+            "speaker": 1
+        },
+        {
+            "id": 101,
+            "start": 178.545,
+            "end": 179.985,
+            "transcript": "有SABCD。",
+            "speaker": 1
+        },
+        {
+            "id": 102,
+            "start": 179.985,
+            "end": 182.065,
+            "transcript": "有什么？SABCD？",
+            "speaker": 1
+        },
+        {
+            "id": 103,
+            "start": 182.065,
+            "end": 182.565,
+            "transcript": "是的。",
+            "speaker": 1
+        },
+        {
+            "id": 104,
+            "start": 183.50499,
+            "end": 185.97,
+            "transcript": "我会给他C。我之后可以改变主意。",
+            "speaker": 1
+        },
+        {
+            "id": 105,
+            "start": 185.97,
+            "end": 186.29,
+            "transcript": "是的。",
+            "speaker": 1
+        },
+        {
+            "id": 106,
+            "start": 186.29,
+            "end": 186.69,
+            "transcript": "好的。",
+            "speaker": 1
+        },
+        {
+            "id": 107,
+            "start": 186.69,
+            "end": 189.03,
+            "transcript": "那是经典的炸鸡桶。",
+            "speaker": 1
+        },
+        {
+            "id": 108,
+            "start": 189.09,
+            "end": 190.20999,
+            "transcript": "你以前吃过肯德基吗？",
+            "speaker": 1
+        },
+        {
+            "id": 109,
+            "start": 190.20999,
+            "end": 190.76999,
+            "transcript": "是的，我吃过。",
+            "speaker": 1
+        },
+        {
+            "id": 110,
+            "start": 190.76999,
+            "end": 194.075,
+            "transcript": "你知道，事实上，你知道，当我第一次来加拿大的时候，实际上，",
+            "speaker": 1
+        },
+        {
+            "id": 111,
+            "start": 194.53499,
+            "end": 195.33499,
+            "transcript": "我很喜欢。",
+            "speaker": 1
+        },
+        {
+            "id": 112,
+            "start": 195.33499,
+            "end": 195.97499,
+            "transcript": "但你知道吗？",
+            "speaker": 1
+        },
+        {
+            "id": 113,
+            "start": 195.97499,
+            "end": 203.02,
+            "transcript": "我发现，现在看起来，肯德基，它曾经比现在更金黄，实际上更深的棕色。",
+            "speaker": 1
+        },
+        {
+            "id": 114,
+            "start": 203.02,
+            "end": 204.3,
+            "transcript": "哇，我闻到油味。",
+            "speaker": 1
+        },
+        {
+            "id": 115,
+            "start": 204.3,
+            "end": 204.78,
+            "transcript": "你知道为什么？",
+            "speaker": 1
+        },
+        {
+            "id": 116,
+            "start": 204.78,
+            "end": 209.6,
+            "transcript": "因为他们正在炸很多鸡，实际上有一只鸡脂肪在油里炸。",
+            "speaker": 1
+        },
+        {
+            "id": 117,
+            "start": 212.58499,
+            "end": 213.56499,
+            "transcript": "哇，咸的。",
+            "speaker": 1
+        },
+        {
+            "id": 118,
+            "start": 214.58499,
+            "end": 215.08499,
+            "transcript": "咸的。",
+            "speaker": 1
+        },
+        {
+            "id": 119,
+            "start": 215.305,
+            "end": 215.805,
+            "transcript": "哇。",
+            "speaker": 1
+        },
+        {
+            "id": 120,
+            "start": 216.025,
+            "end": 216.905,
+            "transcript": "盐，盐，盐。",
+            "speaker": 1
+        },
+        {
+            "id": 121,
+            "start": 216.905,
+            "end": 218.685,
+            "transcript": "我在肯德基的体验是什么？",
+            "speaker": 1
+        },
+        {
+            "id": 122,
+            "start": 218.745,
+            "end": 220.83,
+            "transcript": "以前调味更丰富。",
+            "speaker": 1
+        },
+        {
+            "id": 123,
+            "start": 220.89,
+            "end": 225.95,
+            "transcript": "我的意思是，在调味方面，我说的是少量香料，更多黑胡椒。",
+            "speaker": 1
+        },
+        {
+            "id": 124,
+            "start": 226.01,
+            "end": 227.45,
+            "transcript": "实际上，他们给你半只鸡。",
+            "speaker": 1
+        },
+        {
+            "id": 125,
+            "start": 227.45,
+            "end": 229.995,
+            "transcript": "这种味道本身，我会给他们一个B。",
+            "speaker": 1
+        },
+        {
+            "id": 126,
+            "start": 229.995,
+            "end": 234.575,
+            "transcript": "但就蛋白质而言，我会给他们一个A，因为他们的蛋白质更多",
+            "speaker": 1
+        },
+        {
+            "id": 127,
+            "start": 234.955,
+            "end": 240.03001,
+            "transcript": "实际上比 Taco Bell 更多。总的来说，你给他们什么？我会给他们8分。",
+            "speaker": 1
+        },
+        {
+            "id": 128,
+            "start": 240.49,
+            "end": 241.93001,
+            "transcript": "到目前为止，肯德基是8分吗？",
+            "speaker": 1
+        },
+        {
+            "id": 129,
+            "start": 241.93001,
+            "end": 243.37001,
+            "transcript": "肯德基是8分。",
+            "speaker": 1
+        },
+        {
+            "id": 130,
+            "start": 243.37001,
+            "end": 244.59001,
+            "transcript": "下一站是麦当劳。",
+            "speaker": 1
+        },
+        {
+            "id": 131,
+            "start": 244.81001,
+            "end": 245.31001,
+            "transcript": "熟悉吗？",
+            "speaker": 1
+        },
+        {
+            "id": 132,
+            "start": 245.45001,
+            "end": 245.95001,
+            "transcript": "非常。",
+            "speaker": 1
+        },
+        {
+            "id": 133,
+            "start": 246.01001,
+            "end": 248.11,
+            "transcript": "我总是喜欢 Joyfish 鱼柳，",
+            "speaker": 1
+        },
+        {
+            "id": 134,
+            "start": 248.66501,
+            "end": 253.885,
+            "transcript": "然后我想要带回我以前的记忆。买了一个麦当劳，买了一个",
+            "speaker": 1
+        },
+        {
+            "id": 135,
+            "start": 254.185,
+            "end": 257.94,
+            "transcript": "双层肉饼和一个鱼柳，我把鱼柳放进去挤一挤。",
+            "speaker": 1
+        },
+        {
+            "id": 136,
+            "start": 257.94,
+            "end": 258.18,
+            "transcript": "哇。",
+            "speaker": 1
+        },
+        {
+            "id": 137,
+            "start": 258.18,
+            "end": 259.31998,
+            "transcript": "那就像",
+            "speaker": 1
+        },
+        {
+            "id": 138,
+            "start": 259.69998,
+            "end": 263.47998,
+            "transcript": "最好的海陆大餐？海陆大餐。是的。最好的海陆大餐。",
+            "speaker": 0
+        },
+        {
+            "id": 139,
+            "start": 264.1,
+            "end": 267.405,
+            "transcript": "嗨。一份正式的巨无霸，请。你跟我忙吗？",
+            "speaker": 1
+        },
+        {
+            "id": 140,
+            "start": 267.70502,
+            "end": 268.20502,
+            "transcript": "嘿。",
+            "speaker": 0
+        },
+        {
+            "id": 141,
+            "start": 271.065,
+            "end": 274.58,
+            "transcript": "哦，哇。你看起来不错。谢谢。祝你有个愉快的一天。",
+            "speaker": 1
+        },
+        {
+            "id": 142,
+            "start": 275.08,
+            "end": 275.58,
+            "transcript": "谢谢。",
+            "speaker": 1
+        },
+        {
+            "id": 143,
+            "start": 276.08,
+            "end": 277.94,
+            "transcript": "你知道每个人的习惯是什么吗？",
+            "speaker": 1
+        },
+        {
+            "id": 144,
+            "start": 278.08,
+            "end": 279.52,
+            "transcript": "世界上的每个人。",
+            "speaker": 1
+        },
+        {
+            "id": 145,
+            "start": 279.52,
+            "end": 280.02,
+            "transcript": "好吗？",
+            "speaker": 1
+        },
+        {
+            "id": 146,
+            "start": 280.255,
+            "end": 283.695,
+            "transcript": "一打开这个袋子，你知道他们做的第一件事是什么吗？",
+            "speaker": 1
+        },
+        {
+            "id": 147,
+            "start": 283.695,
+            "end": 284.435,
+            "transcript": "炸薯条吗？",
+            "speaker": 1
+        },
+        {
+            "id": 148,
+            "start": 284.655,
+            "end": 285.155,
+            "transcript": "是的。",
+            "speaker": 1
+        },
+        {
+            "id": 149,
+            "start": 286.335,
+            "end": 289.315,
+            "transcript": "即使我几乎不去那里，但这是一种自然的，你知道的，本能。他们只是想把它放进嘴里。好的。",
+            "speaker": 1
+        },
+        {
+            "id": 150,
+            "start": 290.04,
+            "end": 293.26,
+            "transcript": "有一个肉饼，有洋葱，",
+            "speaker": 1
+        },
+        {
+            "id": 151,
+            "start": 293.72,
+            "end": 295.82,
+            "transcript": "有酱汁，有泡菜，有生菜，有加工奶酪，还有一点，",
+            "speaker": 1
+        },
+        {
+            "id": 152,
+            "start": 296.12003,
+            "end": 300.715,
+            "transcript": "有酱汁。",
+            "speaker": 1
+        },
+        {
+            "id": 153,
+            "start": 301.835,
+            "end": 302.335,
+            "transcript": "酱汁。",
+            "speaker": 1
+        },
+        {
+            "id": 154,
+            "start": 306.47498,
+            "end": 308.09497,
+            "transcript": "你说，用一种好的方式吗？",
+            "speaker": 1
+        },
+        {
+            "id": 155,
+            "start": 308.235,
+            "end": 309.78,
+            "transcript": "我简直不敢相信我在吃这个。",
+            "speaker": 1
+        },
+        {
+            "id": 156,
+            "start": 309.78,
+            "end": 314.52,
+            "transcript": "我发现肉有点儿，显然，他们为了，你知道，卫生目的把它煮得熟透了。",
+            "speaker": 1
+        },
+        {
+            "id": 157,
+            "start": 314.82,
+            "end": 318.04,
+            "transcript": "目的。嗯。但我发现很多，这个词是牛肉",
+            "speaker": 1
+        },
+        {
+            "id": 158,
+            "start": 318.705,
+            "end": 319.205,
+            "transcript": "软骨？",
+            "speaker": 1
+        },
+        {
+            "id": 159,
+            "start": 319.905,
+            "end": 320.405,
+            "transcript": "软骨？",
+            "speaker": 1
+        },
+        {
+            "id": 160,
+            "start": 320.625,
+            "end": 321.125,
+            "transcript": "软骨。",
+            "speaker": 1
+        },
+        {
+            "id": 161,
+            "start": 321.345,
+            "end": 321.845,
+            "transcript": "软骨。",
+            "speaker": 1
+        },
+        {
+            "id": 162,
+            "start": 322.065,
+            "end": 322.565,
+            "transcript": "软骨。",
+            "speaker": 1
+        },
+        {
+            "id": 163,
+            "start": 322.625,
+            "end": 324.065,
+            "transcript": "而且它非常脆。",
+            "speaker": 1
+        },
+        {
+            "id": 164,
+            "start": 324.065,
+            "end": 325.66498,
+            "transcript": "我对它不是很疯狂，非常干。",
+            "speaker": 1
+        },
+        {
+            "id": 165,
+            "start": 325.66498,
+            "end": 327.345,
+            "transcript": "我喜欢它不那么咸的事实。",
+            "speaker": 1
+        },
+        {
+            "id": 166,
+            "start": 327.345,
+            "end": 329.89655,
+            "transcript": "我必须说，不像其他的那么咸。",
+            "speaker": 1
+        },
+        {
+            "id": 167,
+            "start": 329.89655,
+            "end": 331.8378,
+            "transcript": "我的意思是，如果你饿了，我可能会吃。",
+            "speaker": 1
+        },
+        {
+            "id": 168,
+            "start": 331.8378,
+            "end": 333.5364,
+            "transcript": "如果我饿了，我会吃它。",
+            "speaker": 1
+        },
+        {
+            "id": 169,
+            "start": 333.5364,
+            "end": 335.235,
+            "transcript": "我会真的称它为一顿饭吗？",
+            "speaker": 1
+        },
+        {
+            "id": 170,
+            "start": 335.47498,
+            "end": 336.03497,
+            "transcript": "绝对不。",
+            "speaker": 1
+        },
+        {
+            "id": 171,
+            "start": 336.03497,
+            "end": 339.63498,
+            "transcript": "所以如果我对这个评分，我会说我给ABI",
+            "speaker": 1
+        },
+        {
+            "id": 172,
+            "start": 339.63498,
+            "end": 341.395,
+            "transcript": "之后可能要重新审视一下。",
+            "speaker": 1
+        },
+        {
+            "id": 173,
+            "start": 341.395,
+            "end": 343.955,
+            "transcript": "我不想到最后，我想让我们重新审视一下。",
+            "speaker": 1
+        },
+        {
+            "id": 174,
+            "start": 343.955,
+            "end": 345.87,
+            "transcript": "Lillet鱼，我喜欢它的柔软。",
+            "speaker": 1
+        },
+        {
+            "id": 175,
+            "start": 346.49,
+            "end": 347.15,
+            "transcript": "你知道，",
+            "speaker": 1
+        },
+        {
+            "id": 176,
+            "start": 347.93,
+            "end": 351.69,
+            "transcript": "我们在亚洲长大，你知道，我们吃的每个面包，我们都喜欢。",
+            "speaker": 1
+        },
+        {
+            "id": 177,
+            "start": 351.69,
+            "end": 353.415,
+            "transcript": "就像一个小弹性软。",
+            "speaker": 1
+        },
+        {
+            "id": 178,
+            "start": 353.415,
+            "end": 354.855,
+            "transcript": "你知道他们用什么鱼吗？",
+            "speaker": 1
+        },
+        {
+            "id": 179,
+            "start": 354.855,
+            "end": 355.255,
+            "transcript": "鲂鱼？",
+            "speaker": 1
+        },
+        {
+            "id": 180,
+            "start": 355.255,
+            "end": 355.815,
+            "transcript": "我不知道。",
+            "speaker": 1
+        },
+        {
+            "id": 181,
+            "start": 355.815,
+            "end": 357.83502,
+            "transcript": "实际上是鳕鱼还是鲈鱼。",
+            "speaker": 1
+        },
+        {
+            "id": 182,
+            "start": 358.535,
+            "end": 361.35,
+            "transcript": "或者你认为如果你不喜欢它，那我也不喜欢。不。",
+            "speaker": 0
+        },
+        {
+            "id": 183,
+            "start": 361.89,
+            "end": 363.33002,
+            "transcript": "我是不同的。",
+            "speaker": 1
+        },
+        {
+            "id": 184,
+            "start": 363.33002,
+            "end": 364.21,
+            "transcript": "我喜欢这个。",
+            "speaker": 1
+        },
+        {
+            "id": 185,
+            "start": 364.21,
+            "end": 365.57,
+            "transcript": "所以你比巨无霸更喜欢它吗？",
+            "speaker": 1
+        },
+        {
+            "id": 186,
+            "start": 365.57,
+            "end": 365.97,
+            "transcript": "哦，是的。",
+            "speaker": 1
+        },
+        {
+            "id": 187,
+            "start": 365.97,
+            "end": 369.09,
+            "transcript": "因为它是湿润的，你知道，鱼实际上没有被磨碎。",
+            "speaker": 1
+        },
+        {
+            "id": 188,
+            "start": 369.09,
+            "end": 371.155,
+            "transcript": "所以，实际上有真正的鱼。",
+            "speaker": 1
+        },
+        {
+            "id": 189,
+            "start": 371.155,
+            "end": 373.075,
+            "transcript": "如果你必须说，嘿，你知道吗？",
+            "speaker": 1
+        },
+        {
+            "id": 190,
+            "start": 373.075,
+            "end": 375.815,
+            "transcript": "我需要一些蛋白质，垃圾食品，快餐。",
+            "speaker": 1
+        },
+        {
+            "id": 191,
+            "start": 376.355,
+            "end": 379.11002,
+            "transcript": "这就是我会选择的。我给这个100%。",
+            "speaker": 1
+        },
+        {
+            "id": 192,
+            "start": 380.77002,
+            "end": 381.59,
+            "transcript": "第二口。",
+            "speaker": 0
+        },
+        {
+            "id": 193,
+            "start": 381.81,
+            "end": 383.41,
+            "transcript": "我们现在正要到温迪餐厅。",
+            "speaker": 0
+        },
+        {
+            "id": 194,
+            "start": 383.41,
+            "end": 388.015,
+            "transcript": "温迪餐厅的主要特点是他们没有任何冷冻食品，新鲜的，从不冷冻。",
+            "speaker": 0
+        },
+        {
+            "id": 195,
+            "start": 388.015,
+            "end": 388.575,
+            "transcript": "哦，真的吗？",
+            "speaker": 0
+        },
+        {
+            "id": 196,
+            "start": 388.575,
+            "end": 389.075,
+            "transcript": "哇。",
+            "speaker": 0
+        },
+        {
+            "id": 197,
+            "start": 389.215,
+            "end": 390.255,
+            "transcript": "你吃过赛迪斯吗？",
+            "speaker": 0
+        },
+        {
+            "id": 198,
+            "start": 390.255,
+            "end": 391.135,
+            "transcript": "我不记得。",
+            "speaker": 0
+        },
+        {
+            "id": 199,
+            "start": 391.135,
+            "end": 391.935,
+            "transcript": "也许我吃过。",
+            "speaker": 0
+        },
+        {
+            "id": 200,
+            "start": 391.935,
+            "end": 392.435,
+            "transcript": "哇。",
+            "speaker": 0
+        },
+        {
+            "id": 201,
+            "start": 392.495,
+            "end": 394.9,
+            "transcript": "非常，非常兴奋地去看看这些。",
+            "speaker": 0
+        },
+        {
+            "id": 202,
+            "start": 394.97998,
+            "end": 396.6,
+            "transcript": "我最不受欢迎的物品是Baconator。",
+            "speaker": 0
+        },
+        {
+            "id": 203,
+            "start": 396.74,
+            "end": 397.72,
+            "transcript": "听说过Baconator吗？",
+            "speaker": 0
+        },
+        {
+            "id": 204,
+            "start": 397.94,
+            "end": 398.41998,
+            "transcript": "什么？",
+            "speaker": 0
+        },
+        {
+            "id": 205,
+            "start": 398.41998,
+            "end": 398.91998,
+            "transcript": "Baconator。",
+            "speaker": 0
+        },
+        {
+            "id": 206,
+            "start": 399.13998,
+            "end": 400.19998,
+            "transcript": "就是这个名字。",
+            "speaker": 0
+        },
+        {
+            "id": 207,
+            "start": 401.06,
+            "end": 402.73502,
+            "transcript": "Bacon a？A。Baconator。",
+            "speaker": 0
+        },
+        {
+            "id": 208,
+            "start": 403.915,
+            "end": 406.73502,
+            "transcript": "Baconator。我不明白。就像终结者但是培根。",
+            "speaker": 0
+        },
+        {
+            "id": 209,
+            "start": 407.515,
+            "end": 411.375,
+            "transcript": "然后他们还有Baconator的儿子。只是小一点的版本。",
+            "speaker": 0
+        },
+        {
+            "id": 210,
+            "start": 414.27,
+            "end": 416.29,
+            "transcript": "哇。奶酪实际上融化了。",
+            "speaker": 1
+        },
+        {
+            "id": 211,
+            "start": 416.75,
+            "end": 418.29,
+            "transcript": "哇。肉饼很厚。",
+            "speaker": 1
+        },
+        {
+            "id": 212,
+            "start": 418.91,
+            "end": 420.955,
+            "transcript": "你喜欢那样的汉堡。对吧？是的。我喜欢。",
+            "speaker": 0
+        },
+        {
+            "id": 213,
+            "start": 421.435,
+            "end": 422.81497,
+            "transcript": "有烧烤酱。",
+            "speaker": 1
+        },
+        {
+            "id": 214,
+            "start": 423.115,
+            "end": 424.25497,
+            "transcript": "我能闻到。",
+            "speaker": 1
+        },
+        {
+            "id": 215,
+            "start": 427.91498,
+            "end": 428.84,
+            "transcript": "比麦当劳好。",
+            "speaker": 1
+        },
+        {
+            "id": 216,
+            "start": 429.08,
+            "end": 429.72,
+            "transcript": "好多了。",
+            "speaker": 1
+        },
+        {
+            "id": 217,
+            "start": 429.72,
+            "end": 430.69998,
+            "transcript": "味道像肉。",
+            "speaker": 1
+        },
+        {
+            "id": 218,
+            "start": 430.76,
+            "end": 432.44,
+            "transcript": "有东西可以咬一口。",
+            "speaker": 1
+        },
+        {
+            "id": 219,
+            "start": 432.44,
+            "end": 435.08,
+            "transcript": "培根非常好，他们确实给了你足够的培根。",
+            "speaker": 1
+        },
+        {
+            "id": 220,
+            "start": 435.08,
+            "end": 435.58,
+            "transcript": "哇。",
+            "speaker": 1
+        },
+        {
+            "id": 221,
+            "start": 437.85498,
+            "end": 439.555,
+            "transcript": "看那个。培根ator？培根ator。",
+            "speaker": 0
+        },
+        {
+            "id": 222,
+            "start": 441.29498,
+            "end": 444.735,
+            "transcript": "吃完这个肉饼和肉之后，他们会让你睡着。",
+            "speaker": 1
+        },
+        {
+            "id": 223,
+            "start": 444.735,
+            "end": 445.375,
+            "transcript": "所以就在这里。",
+            "speaker": 1
+        },
+        {
+            "id": 224,
+            "start": 445.375,
+            "end": 447.93,
+            "transcript": "我会说这个真的是A加。",
+            "speaker": 1
+        },
+        {
+            "id": 225,
+            "start": 448.39,
+            "end": 450.81,
+            "transcript": "那是肯德基吗？",
+            "speaker": 0
+        },
+        {
+            "id": 226,
+            "start": 451.19,
+            "end": 453.93,
+            "transcript": "这是一顶帽子，百分之百。那不是我。第一，",
+            "speaker": 1
+        },
+        {
+            "id": 227,
+            "start": 454.275,
+            "end": 454.595,
+            "transcript": "这。",
+            "speaker": 0
+        },
+        {
+            "id": 228,
+            "start": 454.595,
+            "end": 455.655,
+            "transcript": "第二是肯德基。",
+            "speaker": 0
+        },
+        {
+            "id": 229,
+            "start": 455.79498,
+            "end": 457.255,
+            "transcript": "第三是塔可。",
+            "speaker": 0
+        },
+        {
+            "id": 230,
+            "start": 457.315,
+            "end": 458.35498,
+            "transcript": "第四是麦当劳。",
+            "speaker": 0
+        },
+        {
+            "id": 231,
+            "start": 458.35498,
+            "end": 460.69498,
+            "transcript": "我们可以来一份辣鸡套餐吗？",
+            "speaker": 0
+        },
+        {
+            "id": 232,
+            "start": 460.835,
+            "end": 462.0,
+            "transcript": "所以你记得这个吗？",
+            "speaker": 0
+        },
+        {
+            "id": 233,
+            "start": 462.08,
+            "end": 462.24,
+            "transcript": "是的。",
+            "speaker": 0
+        },
+        {
+            "id": 234,
+            "start": 462.24,
+            "end": 462.8,
+            "transcript": "上周。",
+            "speaker": 0
+        },
+        {
+            "id": 235,
+            "start": 462.8,
+            "end": 464.98,
+            "transcript": "这是我个人最喜欢的。",
+            "speaker": 0
+        },
+        {
+            "id": 236,
+            "start": 465.28,
+            "end": 467.06,
+            "transcript": "你知道这个地方的名字是什么吗？",
+            "speaker": 0
+        },
+        {
+            "id": 237,
+            "start": 467.28,
+            "end": 468.48,
+            "transcript": "Chick fil A。是的。",
+            "speaker": 0
+        },
+        {
+            "id": 238,
+            "start": 468.48,
+            "end": 469.04,
+            "transcript": "当然。",
+            "speaker": 0
+        },
+        {
+            "id": 239,
+            "start": 469.04,
+            "end": 470.4,
+            "transcript": "上次你没有吃热的。",
+            "speaker": 0
+        },
+        {
+            "id": 240,
+            "start": 470.4,
+            "end": 471.115,
+            "transcript": "那时冷的。",
+            "speaker": 0
+        },
+        {
+            "id": 241,
+            "start": 472.715,
+            "end": 474.01498,
+            "transcript": "所以我知道你吃过了。",
+            "speaker": 1
+        },
+        {
+            "id": 242,
+            "start": 475.675,
+            "end": 476.815,
+            "transcript": "那是真土豆。",
+            "speaker": 1
+        },
+        {
+            "id": 243,
+            "start": 476.955,
+            "end": 480.02002,
+            "transcript": "当他们用真土豆时，我总是很欣赏。",
+            "speaker": 1
+        },
+        {
+            "id": 244,
+            "start": 480.02002,
+            "end": 483.80002,
+            "transcript": "我不得不说，在德建面前，当有人像功夫一样吃东西时，",
+            "speaker": 1
+        },
+        {
+            "id": 245,
+            "start": 484.18,
+            "end": 486.68,
+            "transcript": "我所要做的就是，嘿，给我一些真土豆。",
+            "speaker": 1
+        },
+        {
+            "id": 246,
+            "start": 486.81497,
+            "end": 488.335,
+            "transcript": "那是他们最受欢迎的东西。",
+            "speaker": 1
+        },
+        {
+            "id": 247,
+            "start": 488.335,
+            "end": 489.79498,
+            "transcript": "这是辣鸡肉三明治。",
+            "speaker": 1
+        },
+        {
+            "id": 248,
+            "start": 490.01498,
+            "end": 492.35498,
+            "transcript": "你必须在上面放上 Chick Fil A 酱。",
+            "speaker": 1
+        },
+        {
+            "id": 249,
+            "start": 492.495,
+            "end": 494.03497,
+            "transcript": "这是好的 Chick Fil A。",
+            "speaker": 1
+        },
+        {
+            "id": 250,
+            "start": 499.71002,
+            "end": 502.53,
+            "transcript": "不是很辣，是吗？不。温度很高。",
+            "speaker": 1
+        },
+        {
+            "id": 251,
+            "start": 503.31,
+            "end": 506.45502,
+            "transcript": "好。我也喜欢你的热气腾腾。Dado 很热。",
+            "speaker": 1
+        },
+        {
+            "id": 252,
+            "start": 506.835,
+            "end": 507.815,
+            "transcript": "鸡肉很热。",
+            "speaker": 1
+        },
+        {
+            "id": 253,
+            "start": 507.875,
+            "end": 508.915,
+            "transcript": "感觉很棒，对吧？",
+            "speaker": 1
+        },
+        {
+            "id": 254,
+            "start": 508.915,
+            "end": 510.035,
+            "transcript": "特别是，你知道吗？",
+            "speaker": 1
+        },
+        {
+            "id": 255,
+            "start": 510.035,
+            "end": 512.375,
+            "transcript": "当冬天来临时，那真的会很暖和",
+            "speaker": 1
+        },
+        {
+            "id": 256,
+            "start": 513.37,
+            "end": 514.35,
+            "transcript": "你做这些东西",
+            "speaker": 1
+        },
+        {
+            "id": 257,
+            "start": 514.97,
+            "end": 515.14453,
+            "transcript": "在 TikTok 上搞怪？",
+            "speaker": 1
+        },
+        {
+            "id": 258,
+            "start": 515.14453,
+            "end": 515.2391,
+            "transcript": "是的。",
+            "speaker": 1
+        },
+        {
+            "id": 259,
+            "start": 515.2391,
+            "end": 515.5227,
+            "transcript": "太疯狂了，伙计。",
+            "speaker": 1
+        },
+        {
+            "id": 260,
+            "start": 515.5227,
+            "end": 515.9009,
+            "transcript": "我会存起来的。",
+            "speaker": 1
+        },
+        {
+            "id": 261,
+            "start": 515.9009,
+            "end": 515.9954,
+            "transcript": "是的。",
+            "speaker": 1
+        },
+        {
+            "id": 262,
+            "start": 515.9954,
+            "end": 516.81,
+            "transcript": "嘿，怎么了？",
+            "speaker": 1
+        },
+        {
+            "id": 263,
+            "start": 516.81,
+            "end": 517.9249,
+            "transcript": "那非常好。",
+            "speaker": 1
+        },
+        {
+            "id": 264,
+            "start": 517.9249,
+            "end": 519.31,
+            "transcript": "还有土豆，我",
+            "speaker": 1
+        },
+        {
+            "id": 265,
+            "start": 521.35504,
+            "end": 523.935,
+            "transcript": "停不下来吃它们。但我们在梯级上。哈利路亚。",
+            "speaker": 1
+        },
+        {
+            "id": 266,
+            "start": 524.395,
+            "end": 525.29504,
+            "transcript": "不。我会",
+            "speaker": 1
+        },
+        {
+            "id": 267,
+            "start": 525.91504,
+            "end": 527.775,
+            "transcript": "真的会和温迪并驾齐驱。",
+            "speaker": 1
+        },
+        {
+            "id": 268,
+            "start": 527.91504,
+            "end": 528.715,
+            "transcript": "所以这是泰国的。",
+            "speaker": 1
+        },
+        {
+            "id": 269,
+            "start": 528.715,
+            "end": 529.91,
+            "transcript": "这是冷冷的泰国。",
+            "speaker": 1
+        },
+        {
+            "id": 270,
+            "start": 530.06995,
+            "end": 531.67,
+            "transcript": "但但但你知道吗？",
+            "speaker": 1
+        },
+        {
+            "id": 271,
+            "start": 531.67,
+            "end": 538.285,
+            "transcript": "如果我必须说是什么让它成为泰国，但如果我必须真正准备1个结，那就是真正的土豆。",
+            "speaker": 1
+        },
+        {
+            "id": 272,
+            "start": 538.285,
+            "end": 538.685,
+            "transcript": "我喜欢它。",
+            "speaker": 1
+        },
+        {
+            "id": 273,
+            "start": 538.685,
+            "end": 541.90497,
+            "transcript": "所以我会说比温迪前进1步。",
+            "speaker": 1
+        },
+        {
+            "id": 274,
+            "start": 542.045,
+            "end": 542.285,
+            "transcript": "好的。",
+            "speaker": 1
+        },
+        {
+            "id": 275,
+            "start": 542.285,
+            "end": 546.7,
+            "transcript": "所以我认为这个系列的好处是我们击中了5家主要餐厅，但我们会做更多。",
+            "speaker": 1
+        },
+        {
+            "id": 276,
+            "start": 546.7,
+            "end": 547.76,
+            "transcript": "你称它为餐厅吗？",
+            "speaker": 1
+        },
+        {
+            "id": 277,
+            "start": 548.14,
+            "end": 551.52,
+            "transcript": "我不这么认为。我们击中了5家快餐店，",
+            "speaker": 0
+        },
+        {
+            "id": 278,
+            "start": 552.16504,
+            "end": 554.005,
+            "transcript": "而且有出口，不是餐厅。",
+            "speaker": 0
+        },
+        {
+            "id": 279,
+            "start": 554.005,
+            "end": 558.72504,
+            "transcript": "所以我们击中了5家主要的，还有很多，我们很快就要去美国了。",
+            "speaker": 0
+        },
+        {
+            "id": 280,
+            "start": 558.72504,
+            "end": 562.72003,
+            "transcript": "所以我们将能够慢慢建立一个庞大的列表，不同的剧集。",
+            "speaker": 0
+        },
+        {
+            "id": 281,
+            "start": 562.78,
+            "end": 565.34,
+            "transcript": "哦，所以它还没有停下来吗？",
+            "speaker": 0
+        },
+        {
+            "id": 282,
+            "start": 565.34,
+            "end": 565.58,
+            "transcript": "是的。",
+            "speaker": 0
+        },
+        {
+            "id": 283,
+            "start": 565.58,
+            "end": 567.58,
+            "transcript": "哦，我们还会吃大概还有更多。",
+            "speaker": 0
+        },
+        {
+            "id": 284,
+            "start": 567.58,
+            "end": 568.62,
+            "transcript": "我还会继续吃。",
+            "speaker": 0
+        },
+        {
+            "id": 285,
+            "start": 568.62,
+            "end": 569.34,
+            "transcript": "你知道我在说什么吗？",
+            "speaker": 0
+        },
+        {
+            "id": 286,
+            "start": 569.34,
+            "end": 569.58,
+            "transcript": "是的。",
+            "speaker": 0
+        },
+        {
+            "id": 287,
+            "start": 569.58,
+            "end": 572.325,
+            "transcript": "至少我们还要去大概50家餐厅。",
+            "speaker": 0
+        },
+        {
+            "id": 288,
+            "start": 572.325,
+            "end": 573.205,
+            "transcript": "熊猫快餐。",
+            "speaker": 0
+        },
+        {
+            "id": 289,
+            "start": 573.205,
+            "end": 574.805,
+            "transcript": "你知道什么是真正的中国菜。",
+            "speaker": 0
+        },
+        {
+            "id": 290,
+            "start": 574.805,
+            "end": 576.565,
+            "transcript": "你知道他们在飞机上有什么吗？",
+            "speaker": 0
+        },
+        {
+            "id": 291,
+            "start": 576.565,
+            "end": 577.925,
+            "transcript": "我会收集那个。",
+            "speaker": 0
+        },
+        {
+            "id": 292,
+            "start": 577.925,
+            "end": 579.51,
+            "transcript": "那是呕吐袋。",
+            "speaker": 0
+        },
+        {
+            "id": 293,
+            "start": 579.51,
+            "end": 581.03,
+            "transcript": "嗯，你似乎喜欢大部分。",
+            "speaker": 0
+        },
+        {
+            "id": 294,
+            "start": 581.03,
+            "end": 582.47,
+            "transcript": "嗯，不像2和惊人。",
+            "speaker": 0
+        },
+        {
+            "id": 295,
+            "start": 582.47,
+            "end": 583.83,
+            "transcript": "你放1和a。是的。",
+            "speaker": 0
+        },
+        {
+            "id": 296,
+            "start": 583.83,
+            "end": 584.47,
+            "transcript": "但你知道吗？",
+            "speaker": 0
+        },
+        {
+            "id": 297,
+            "start": 584.47,
+            "end": 586.70496,
+            "transcript": "如果你只是评价快餐，对吧？",
+            "speaker": 0
+        },
+        {
+            "id": 298,
+            "start": 586.70496,
+            "end": 588.385,
+            "transcript": "我只是我必须有这种心态。",
+            "speaker": 0
+        },
+        {
+            "id": 299,
+            "start": 588.385,
+            "end": 591.105,
+            "transcript": "如果你说快餐店？",
+            "speaker": 0
+        },
+        {
+            "id": 300,
+            "start": 591.105,
+            "end": 593.745,
+            "transcript": "是的，但如果你只是说，嘿爸爸你能评价这个食物吗？",
+            "speaker": 0
+        },
+        {
+            "id": 301,
+            "start": 593.745,
+            "end": 599.06,
+            "transcript": "我不告诉我这是快餐，我会说这是这是这是这是甚至是 Chick Fil A 和 Wendy's 吗？",
+            "speaker": 0
+        },
+        {
+            "id": 302,
+            "start": 599.44,
+            "end": 599.60004,
+            "transcript": "不。",
+            "speaker": 1
+        },
+        {
+            "id": 303,
+            "start": 599.60004,
+            "end": 607.685,
+            "transcript": "我必须对快餐有一种心态，所以我会给出一个非常公正的评论，同时，你知道，对人们的生意要敏感。",
+            "speaker": 1
+        },
+        {
+            "id": 304,
+            "start": 607.745,
+            "end": 607.985,
+            "transcript": "对吧？",
+            "speaker": 1
+        },
+        {
+            "id": 305,
+            "start": 607.985,
+            "end": 613.81,
+            "transcript": "所以这是你的结局，但我实际上喜欢，你知道，Wendy's 汉堡肉饼非常新鲜，我喜欢它的厚度。",
+            "speaker": 1
+        },
+        {
+            "id": 306,
+            "start": 613.81,
+            "end": 616.79,
+            "transcript": "Chick Fil A 汉堡非常容易上瘾。",
+            "speaker": 1
+        },
+        {
+            "id": 307,
+            "start": 616.93,
+            "end": 618.23,
+            "transcript": "我必须说非常容易上瘾。",
+            "speaker": 1
+        },
+        {
+            "id": 308,
+            "start": 618.29,
+            "end": 619.33,
+            "transcript": "所以这是你的分析师。",
+            "speaker": 1
+        },
+        {
+            "id": 309,
+            "start": 619.33,
+            "end": 620.37,
+            "transcript": "你有任何改变吗？",
+            "speaker": 1
+        },
+        {
+            "id": 310,
+            "start": 620.37,
+            "end": 621.505,
+            "transcript": "这就是你喜欢的方式，对吧？",
+            "speaker": 1
+        },
+        {
+            "id": 311,
+            "start": 621.665,
+            "end": 621.905,
+            "transcript": "是的。",
+            "speaker": 1
+        },
+        {
+            "id": 312,
+            "start": 621.905,
+            "end": 621.985,
+            "transcript": "是的。",
+            "speaker": 1
+        },
+        {
+            "id": 313,
+            "start": 621.985,
+            "end": 622.145,
+            "transcript": "是的。",
+            "speaker": 1
+        },
+        {
+            "id": 314,
+            "start": 622.145,
+            "end": 622.705,
+            "transcript": "哦，是的。",
+            "speaker": 1
+        },
+        {
+            "id": 315,
+            "start": 622.705,
+            "end": 623.025,
+            "transcript": "是的。",
+            "speaker": 1
+        },
+        {
+            "id": 316,
+            "start": 623.025,
+            "end": 623.745,
+            "transcript": "我 我 是的。",
+            "speaker": 1
+        },
+        {
+            "id": 317,
+            "start": 623.745,
+            "end": 625.025,
+            "transcript": "我 我不会改变主意。",
+            "speaker": 1
+        },
+        {
+            "id": 318,
+            "start": 625.025,
+            "end": 628.305,
+            "transcript": "比起 Taco Bell，Big Mac 更糟。",
+            "speaker": 1
+        },
+        {
+            "id": 319,
+            "start": 628.305,
+            "end": 628.76,
+            "transcript": "是的。",
+            "speaker": 1
+        },
+        {
+            "id": 320,
+            "start": 629.08,
+            "end": 629.36,
+            "transcript": "Big Mac。",
+            "speaker": 1
+        },
+        {
+            "id": 321,
+            "start": 629.36,
+            "end": 630.80005,
+            "transcript": "我在谈论汉堡肉饼。",
+            "speaker": 1
+        },
+        {
+            "id": 322,
+            "start": 630.80005,
+            "end": 631.56,
+            "transcript": "你知道，大麦克。",
+            "speaker": 1
+        },
+        {
+            "id": 323,
+            "start": 631.56,
+            "end": 632.7,
+            "transcript": "不是鱼排。",
+            "speaker": 1
+        },
+        {
+            "id": 324,
+            "start": 632.84,
+            "end": 633.34,
+            "transcript": "好的。",
+            "speaker": 1
+        },
+        {
+            "id": 325,
+            "start": 633.4,
+            "end": 633.9,
+            "transcript": "公平。",
+            "speaker": 1
+        },
+        {
+            "id": 326,
+            "start": 633.96,
+            "end": 635.56,
+            "transcript": "所以我们会慢慢完善这个清单。",
+            "speaker": 1
+        },
+        {
+            "id": 327,
+            "start": 635.56,
+            "end": 636.2,
+            "transcript": "这很难。",
+            "speaker": 1
+        },
+        {
+            "id": 328,
+            "start": 636.2,
+            "end": 636.915,
+            "transcript": "相信我。",
+            "speaker": 1
+        },
+        {
+            "id": 329,
+            "start": 637.39496,
+            "end": 641.415,
+            "transcript": "我并不期待。我只是这样做是因为我需要",
+            "speaker": 1
+        },
+        {
+            "id": 330,
+            "start": 641.95496,
+            "end": 645.27,
+            "transcript": "与你们所有人分享我的经验。谢谢你们的",
+            "speaker": 1
+        },
+        {
+            "id": 331,
+            "start": 649.4883,
+            "end": 649.9883,
+            "transcript": "观看。",
+            "speaker": 0
+        }
+    ]
+}
